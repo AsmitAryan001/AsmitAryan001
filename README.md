@@ -1,4 +1,3 @@
-
 # 💫 Hello there, I am Asmit Aryan
 🌱 I’m currently learning Databases & Backend Development<br><br>💬 Ask me about Frontend Development, JavaScript, Java<br><br>📫 How to reach me yasharyan2882@gmail.com<br><br>⚡ Fun fact I enjoy playing musical instruments
 
@@ -12,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=AsmitAryan001&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AsmitAryan001&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsmitAryan001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AsmitAryan001&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
